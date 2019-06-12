@@ -29,6 +29,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  portfolio:
+    output: true
+    permalink: /portfolio/:name
 
 
 # Default values for collections
@@ -38,7 +41,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "page"
 
 # Posts default Permalink
 permalink: articles/:title
