@@ -1,7 +1,7 @@
 # Site settings
-title: Bernhard rieder
+title: Bernhard Rieder
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there, my name is <b>Bernhard Rieder</b> and I'm a passionate game programmer who currently works for Ubisoft Bucharest! 
+  Hi there, my name is <b>Bernhard Rieder</b> and I'm a tech enthusiast as well as a passionate game programmer who currently works for Ubisoft Bucharest.
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://bernhardrieder.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: bernhardrieder
