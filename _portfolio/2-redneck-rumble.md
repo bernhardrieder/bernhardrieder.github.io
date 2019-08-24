@@ -1,21 +1,33 @@
 ---
 name: Redneck Rumble
-# tools: [C++, Unreal Engine 4]
 image: "/assets/img/portfolio/redneck_rumble/header.png"
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
-# external_url: https://www.google.com
+description: "A 3D local multiplayer action-arcade racer game for PC, developed in C++ with Unreal Engine 4."
+platforms: [itch.io] 
+trailer: https://www.youtube.com/embed/h9i7N7TOmBU
+release-date: January 2018
 ---
 
-# Project A
+## Responsibilites
 
-Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screen-shot-2018-05-01-at-11-30-23-am.png?w=1390&crop=1)
+## The Idea?
+The idea behind Redneck Rumble was to develop an electrifying local-multiplayer game such as those addictive local-multiplayer games back in the day. With Redneck Rumble, we established precisely that electrifying, addictive and moreover, fun gameplay.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## What is Redneck Rumble?
+Redneck Rumble is a 3D local multiplayer action-arcade racer game for PC, developed in C++ with Unreal Engine 4, in which the players need to adapt to regularly changing environmental conditions, score systems, and abilities to win the game. In particular, it is now a polished game prototype developed for four players, playable with four controllers. 
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
+The game itself takes place in an arena of death in which two teams are in a battle with each other. Furthermore, each player has available unique vehicle abilities, and each side tries to get as many points as possible to win the game. BUT, as already mentioned, there are uncontrollable and unforeseeable circumstances which affect the arena of death, every player, and the environment. These circumstances lead to complete chaos between the players and emerge in the craziest gameplay ever seen in the last decades! 
+
+Do you think you will be able to manage Redneck Rumble and lead your team to victory? Well, there is just one way to find out!
+
+## Who made it?
+Development took place in a collaboration of four students for the final game development project in the study program of Game Engineering and Simulation Technologies at the University of Applied Sciences Technikum Wien, Vienna, Austria. Moreover, external artists provided the astonishing in-game art and sound which gives the game its beautiful look.
+
+Developers: Stefan Radlwimmer, Bernhard Rieder, Viktor Was, Roman Winkler
+Art: Piotr Dyderski, Constantin Naschitz, Jacqueline Reiter, Jessica Stoimaier
+Sound: Christoph Kremsmayr, Jan Schneider
+
 
 <p class="text-center">
-{% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include button.html link="https://bernhardrieder.itch.io/redneck-rumble" text="Get it on itch.io" %}
 </p>

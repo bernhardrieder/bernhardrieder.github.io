@@ -2,14 +2,15 @@
 name: "Space Dash: Earth Defender"
 # tools: [C#, Unity]
 image: "/assets/img/portfolio/space_dash_ed/header.jfif"
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
-# external_url: https://www.google.com
+description: "A 2D space invaders-like casual arcade game with simple and addictive gameplay, developed in C# with Unity."
+platforms: [iOS, Android] 
+trailer: https://www.youtube.com/embed/R78r_UgC6qo
+release-date: March 2016
+# external_url: http://sd.grapeleaf.at/
 ---
-
-# Project A
 
 ASD
 
 <p class="text-center">
-{% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include button.html link="http://sd.grapeleaf.at/" text="Website" %}
 </p>

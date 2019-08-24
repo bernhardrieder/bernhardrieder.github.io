@@ -1,13 +1,15 @@
 ---
 name: "TEMPLATE"
-tools: [C++, C#, Python, TensorFlow, Unity, Unreal Engine 4]
 image: https://thenextscoop.com/wp-content/uploads/2019/01/web-design-2019.jpg
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
-# external_url: https://www.google.com
+platforms: [PC, PS4, Xbox One, Stadia, iOS, Android, itch.io] 
+# trailer: add embebded youtube video link
+# external_url: instead of an own project page on the website
+release-date: "???"
 published: false
 ---
 
-# Project A
+## first headline
 
 Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
 

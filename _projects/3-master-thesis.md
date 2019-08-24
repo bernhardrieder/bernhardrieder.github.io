@@ -6,7 +6,7 @@ description: This project has an individual showcase page, not just a direct lin
 # external_url: https://www.google.com
 ---
 
-# Project A
+# Procedural Content Generation via Machine Learning as a Game Mechanic
 
 Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
 
