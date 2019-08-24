@@ -2,9 +2,10 @@
 name: Redneck Rumble
 image: "/assets/img/portfolio/redneck_rumble/header.png"
 description: "A 3D local multiplayer action-arcade racer game for PC, developed in C++ with Unreal Engine 4."
-platforms: [itch.io] 
+website: https://bernhardrieder.itch.io/redneck-rumble
 trailer: https://www.youtube.com/embed/h9i7N7TOmBU
 release-date: January 2018
+platforms: [itch.io] 
 ---
 
 ## Responsibilites
@@ -29,5 +30,5 @@ Sound: Christoph Kremsmayr, Jan Schneider
 
 
 <p class="text-center">
-{% include button.html link="https://bernhardrieder.itch.io/redneck-rumble" text="Get it on itch.io" %}
+{% include button.html link=page.website text="Get it on itch.io" %}
 </p>
