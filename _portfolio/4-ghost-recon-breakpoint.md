@@ -12,8 +12,3 @@ platforms: [PC, PS4, Xbox One, Stadia]
 <div class="video">
   <iframe src="https://www.youtube.com/embed/6_cPJnGOsGM" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
-<p class="text-center">
-{% include button.html link=page.website text="Website" %}
-</p>

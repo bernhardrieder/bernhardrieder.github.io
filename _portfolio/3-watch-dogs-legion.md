@@ -7,8 +7,3 @@ trailer: https://www.youtube.com/embed/KbokXaPTk38
 release-date: March 2020
 platforms: [PC, PS4, Xbox One, Stadia] 
 ---
-
-
-<p class="text-center">
-{% include button.html link=page.website text="Website" %}
-</p>

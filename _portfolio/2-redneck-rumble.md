@@ -1,15 +1,21 @@
 ---
 name: Redneck Rumble
 image: "/assets/img/portfolio/redneck_rumble/header.png"
-description: "A 3D local multiplayer action-arcade racer game for PC, developed in C++ with Unreal Engine 4."
+description: "A crazy and fun 3D local multiplayer team-based action-arcade racer game for PC."
 website: https://bernhardrieder.itch.io/redneck-rumble
 trailer: https://www.youtube.com/embed/h9i7N7TOmBU
 release-date: January 2018
 platforms: [itch.io] 
 ---
 
-## Responsibilites
-
+<!-- ## Responsibilites
+Redneck Rumble is a 3D local multiplayer action-arcade racer game for PC, developed in C++
+with Unreal Engine 4. Development took place in collaboration with three other students for
+the final game development project at the University of Applied Sciences Technikum Wien.
+The role and tasks in the project: Project coordinator and lead programmer with responsibility
+for game and code design, coding guidelines, prototyping, plan and repository setup, codebase
+implementation, implementation of core mechanics and gameplay, vehicle physics, quality
+assurance and optimization/improvements, weekly meetings, playtests, and game-polishing. -->
 
 ## The Idea?
 The idea behind Redneck Rumble was to develop an electrifying local-multiplayer game such as those addictive local-multiplayer games back in the day. With Redneck Rumble, we established precisely that electrifying, addictive and moreover, fun gameplay.
@@ -27,8 +33,3 @@ Development took place in a collaboration of four students for the final game de
 Developers: Stefan Radlwimmer, Bernhard Rieder, Viktor Was, Roman Winkler
 Art: Piotr Dyderski, Constantin Naschitz, Jacqueline Reiter, Jessica Stoimaier
 Sound: Christoph Kremsmayr, Jan Schneider
-
-
-<p class="text-center">
-{% include button.html link=page.website text="Get it on itch.io" %}
-</p>
