@@ -20,8 +20,13 @@ Although the player can recruit a large roster of characters to control, each ca
 Players can also join a team of up to four players in cooperative gameplay, sharing progression between single-player and multiplayer modes.
 
 ## Work
+<i>THIS IS CONFIDENTIAL INFORMATION AND CANNOT BE SHARED AT THE MOMENT.</i>
+<!-- Within Ubisoft Bucharest, one of our mandates is to create a game, DUH! -->
 
 ## Team
+In Ubisoft, most of the games are developed across different studio locations and different continents, where each one of them has different responsibilities and features to implement and maintain. In Watch Dogs: Legion, the lead developer is Ubisoft Toronto which is responsible for the core of the game. As I work for Ubisoft Bucharest, permanent communication and connection to Ubisoft Toronto and all the other involved studios is important throughout the development and contributes to deliver memorable gaming experience to our players.
+
+The core team of Watch Dogs: Legion within Ubisoft Bucharest consists of <i>CONFIDENTIAL</i> people within different kind of sub-teams. It includes gameplay programmers, game designers, dev tester, online programmers, general programmers, build specialists, every kind of artist, sound designers, project coordinators and project managers. 
 
 ## Used Software and Technology
 - Game engine: <i>CONFIDENTIAL</i>
