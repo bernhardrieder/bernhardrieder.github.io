@@ -20,8 +20,9 @@ Although the player can recruit a large roster of characters to control, each ca
 Players can also join a team of up to four players in cooperative gameplay, sharing progression between single-player and multiplayer modes.
 
 ## Work
-<i>THIS IS CONFIDENTIAL INFORMATION AND CANNOT BE SHARED AT THE MOMENT.</i>
-<!-- Within Ubisoft Bucharest, one of our mandates is to create a game, DUH! -->
+Right after graduation, I started working for Ubisoft Bucharest on Watch Dogs: Legion in November 2018 and was part of the team until E3 in June 2019, when I switched to the development team of Ghost Recon Breakpoint due to their needs. During my time in the Watch Dogs team, I was responsible and involved in nearly every feature developed within Ubisoft Bucharest. 
+
+<i>THE REST OF THIS IS CONFIDENTIAL INFORMATION AND CANNOT BE SHARED AT THE MOMENT.</i>
 
 ## Team
 In Ubisoft, most of the games are developed across different studio locations and different continents, where each one of them has different responsibilities and features to implement and maintain. In Watch Dogs: Legion, the lead developer is Ubisoft Toronto which is responsible for the core of the game. As I work for Ubisoft Bucharest, permanent communication and connection to Ubisoft Toronto and all the other involved studios is important throughout the development and contributes to deliver memorable gaming experience to our players.
