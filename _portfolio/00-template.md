@@ -5,7 +5,7 @@ description: This project has an individual showcase page, not just a direct lin
 website: ""
 trailer: add embebded youtube video link
 release-date: ""
-platforms: [PC, PS4, Xbox One, Stadia, iOS, Android, itch.io] 
+platforms: [PC, PS4, Xbox One, Stadia, iOS, Android] 
 # external_url: instead of an own project page on the website
 published: false
 ---
