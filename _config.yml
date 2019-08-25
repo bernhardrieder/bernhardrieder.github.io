@@ -1,7 +1,9 @@
 # Site settings
 title: Bernhard Rieder
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there, my name is <b>Bernhard Rieder</b> and I'm a tech enthusiast as well as a passionate game programmer who currently works for Ubisoft Bucharest.
+  Hi there, my name is <b>Bernhard Rieder</b> and I'm an Austrian game developer currently employed at Ubisoft Bucharest.<br>
+  If you are interested in working with me or anything similar, then feel free to get in touch with me via any social network or e-mail. 
+  
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://bernhardrieder.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: bernhardrieder
@@ -29,6 +31,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  portfolio:
+    output: true
+    permalink: /portfolio/:name
 
 
 # Default values for collections
@@ -38,7 +43,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "portfolio"
 
 # Posts default Permalink
 permalink: articles/:title
