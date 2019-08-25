@@ -16,16 +16,17 @@ The development took place in close collaboration with three friends to gain a d
 ## Work
 As already indicated, my role and tasks in the project were mainly those of a programmer. However, since the team consisted only of four people, one needed to do a lot of other different work too - as it usually is for indie game developers. 
 
-I was fully responsible for the implementation of the user interface, implemented some pieces of gameplay, integrated every sound effect in the game and created all special effects. Besides programming work, I was also involved co-creation of game concepts, playtest plans, and game design.
+I was fully responsible for the implementation of the user interface, implemented some pieces of gameplay, integrated every sound effect in the game, and created all special effects. Besides programming work, I was also involved co-creation of game concepts, playtest plans, and game design.
 
 ## Team
-Following list describes the main responsibilities of each team member and does not reflect the full workload accomplished by each one of them.
+Following list describes the main responsibilities of each team member but does not reflect the full workload accomplished by each one of them.
 - Andreas Amon: Project lead, lead game designer, marketing, and general programming
 - Markus Rieder: Artist, and marketing
 - Michael Mroz: Gameplay and graphics programming 
 
 ## Used Software and Technology
-- Game engine: Unity 
+- Game engine: Unity 4.6
 - Programming language: C#
 - Project management tool: Freedcamp 
-- Source control: Perforce 
+- Source control: AWS with Perforce 
+- Other tools: Resharper
