@@ -8,8 +8,6 @@ release-date: October 2019
 platforms: [PC, PS4, Xbox One, Stadia] 
 ---
 
-<small><i>ATTENTION: The game is not released yet. Mentioned details are extracted from trailers and interviews, to ensure confidentiality.</i></small>
-
 ## About 
 Ghost Recon Breakpoint is a tactical shooter game set in an open world environment. It is played from a third-person perspective. Players take on the role of Lieutenant Colonel Anthony "Nomad" Perryman, a member of the Delta Company, First Battalion, 5th Special Forces Group, also known as "Ghosts", a fictional elite special operations unit of the United States Army under the Joint Special Operations Command. The game world, Auroa, is an open world environment that features a variety of landscapes, and these can be used for tactical advantages. For instance, players can slide down rocky terrain and use mud to camouflage themselves. Players have a variety of ways to traverse the open world, controlling various air, land and sea vehicles.
 
@@ -35,7 +33,7 @@ The core team of Ghost Recon Breakpoint within Ubisoft Bucharest consists of <i>
 ## Used Software and Technology
 - Game engine: Anvil
 - Programming language: C++ and C#
-- Project management tool: Jira and Confluence
+- Project management tools: Jira and Confluence
 - Source control: Perforce
 - Code review: Helix Swarm
 - Other tools: Visual Assist X
