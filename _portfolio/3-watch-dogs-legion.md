@@ -27,11 +27,12 @@ Right after graduation, I started working for Ubisoft Bucharest on Watch Dogs: L
 ## Team
 In Ubisoft, most of the games are developed across different studio locations and different continents, where each one of them has different responsibilities and features to implement and maintain. In Watch Dogs: Legion, the lead developer is Ubisoft Toronto which is responsible for the core of the game. As I work for Ubisoft Bucharest, permanent communication and connection to Ubisoft Toronto and all the other involved studios is important throughout the development and contributes to deliver memorable gaming experience to our players.
 
-The core team of Watch Dogs: Legion within Ubisoft Bucharest consists of <i>CONFIDENTIAL</i> people within different kind of sub-teams. It includes gameplay programmers, game designers, dev tester, online programmers, general programmers, build specialists, every kind of artist, sound designers, project coordinators and project managers. 
+The core team of Watch Dogs: Legion within Ubisoft Bucharest consists of <i>CONFIDENTIAL</i> people within different kind of sub-teams. It includes gameplay programmers, game designers, dev tester, online programmers, general programmers, build specialists, every kind of artist, sound designers, producers, project coordinators and project managers. 
 
 ## Used Software and Technology
 - Game engine: <i>CONFIDENTIAL</i>
 - Programming language: C++ and C#
 - Project management tool: Jira and Confluence
 - Source control: Perforce
+- Code review: Code Collaborator and Helix Swarm
 - Other tools: Visual Assist X
