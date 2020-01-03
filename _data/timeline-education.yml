@@ -1,0 +1,44 @@
+- degree: Master of Science in Engineering
+  study: Game Engineering and Simulation Technology
+  school: University of Applied Sciences Technikum Wien
+  location: Vienna, Austria
+  from: September 2016
+  to: October 2018
+  description: > 
+    Graduated with a US GPA of 3.84 and the master thesis subject of "Using Procedural Content Generation via Machine Learning as a Game Mechanic." 
+    <br>The thesis addresses the possibilities and demonstrates the development of a first-person shooter game mechanic which uses a generative machine learning model to produce new weapons. The prototype was realized in Unreal Engine 4.
+
+- degree: Short-Term Scholar
+  study: Digital Media
+  school: Drexel University
+  location: Philadelphia, PA, USA
+  from: January 2018
+  to: July 2018
+  description: >
+    Visit as a short-term scholar to write the master thesis, supervised by Dr. Santiago Ontanon.
+    
+- degree: Master of Science
+  study: Media Informatics
+  school: University of Vienna
+  location: Vienna, Austria
+  from: October 2015
+  to: July 2016
+  description: >
+    Completed courses: Render Engines, Gaming Technologies, Advanced Media Technologies, Advanced Software Engineering, and Multimedia Systems.
+
+- degree: Bachelor of Science in Engineering
+  study: Information and Communication Systems and Services
+  school: University of Applied Sciences Technikum Wien
+  location: Vienna, Austria
+  from: September 2012
+  to: June 2015
+  description: > 
+    Graduated with a US GPA of 3.45 and the bachelor thesis subjects of "3D World Generation with Open Government Data" and "A Game Design for a Serious Game about the Smart City Vienna."
+
+- degree: Technical College Graduation
+  study: Engergy Engineering
+  school: HTL Hollabrunn
+  location: Hollabrunn, Austria
+  from: September 2005
+  to: June 2010
+  # description: > 
