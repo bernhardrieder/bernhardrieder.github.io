@@ -18,7 +18,7 @@ The game places a large emphasis on survival. Enemies are numerous and the game 
 ## Work
 After working a couple of months on Watch Dogs: Legion, I was transferred to the Ghost Recon Breakpoint team in the middle of the E3 week in June 2019. The main games features and contents were already sealed and fixed by this date. However, the team needed support to ship the game in the best condition possible and I was chosen to be part of this. 
 
-In Ubisoft Bucharest, we worked on the entire PvP system of Ghost Recon Breakpoint and were responsible for the Google Stadia port of the game. My responsibilities within the development team were to fix bugs in every PvP feature and help to reach full compliance with our build for Google Stadia. This included bugs and issues in various PvP gameplay mechanics, data-driven features, user interface, input, multiplayer or any kind of client-server feature, as well as any other main game issue or Google Stadia specific issue.
+In Ubisoft Bucharest, we worked on the entire PvP system of Ghost Recon Breakpoint and were responsible for the Google Stadia port of the game. My responsibilities within the development team focused mainly on the Google Stadia port with novel platform challenges and the goal to reach full compliance with our build for Google Stadia. Additionally, my work also included fixing bugs and issues in various PvP gameplay mechanics, data-driven features, user interface, input, multiplayer or any kind of client-server feature, as well as any other main game issue or Google Stadia specific issue.
 
 #### Ghost War PVP
 <div class="video">
@@ -26,7 +26,7 @@ In Ubisoft Bucharest, we worked on the entire PvP system of Ghost Recon Breakpoi
 </div>
 
 ## Team
-In Ubisoft, most of the games are developed across different studio locations and different continents, where each one of them has different responsibilities and features to implement and maintain. In Ghost Recon Breakpoint, the lead development studio is Ubisoft Paris which is responsible for the core of the game. As I work for Ubisoft Bucharest, permanent communication and connection to Ubisoft Paris and all the other involved studios is important throughout the development and contributes to deliver memorable gaming experience to our players.
+In Ubisoft, most of the games are developed across different studio locations and different continents, where each one of them has different responsibilities and features to implement and maintain. In Ghost Recon Breakpoint, the lead development studio was Ubisoft Paris which was responsible for the core of the game. As I worked for Ubisoft Bucharest, permanent communication and connection to Ubisoft Paris and all the other involved studios was important throughout the development and contributes to deliver memorable gaming experience to our players.
 
 The core team of Ghost Recon Breakpoint within Ubisoft Bucharest consisted of 50 - 100 people within different kind of sub-teams. Those included gameplay programmers, game designers, dev tester, online programmers, general programmers, specialist programmers, build specialists, every kind of artist, sound designers, producers, project coordinators and project managers. 
 
