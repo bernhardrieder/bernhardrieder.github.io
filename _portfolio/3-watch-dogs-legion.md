@@ -24,10 +24,10 @@ Namely, the most active involvement was in the photocamera, the photomode as wel
 
 #### World Activities
 <div class="video">
-  <iframe src="https://www.youtube.com/watch?v=gM7EPKun34Y" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/gM7EPKun34Y" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="video">
-  <iframe src="https://www.youtube.com/watch?v=cqXSkJNv7WM" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/cqXSkJNv7WM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Team
