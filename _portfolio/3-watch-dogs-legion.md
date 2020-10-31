@@ -22,6 +22,14 @@ Right after graduation, I started working for Ubisoft Bucharest on Watch Dogs: L
 
 Namely, the most active involvement was in the photocamera, the photomode as well as the photobooth features. But I also implemented new gameplay sub-features or fixed bugs in football kick-up, the Parcel Fox delivery system, street art, relic hunt, bare knuckle fighting, riding the London Eye, and Pub activities such as getting drunk and playing darts.
 
+#### World Activities
+<div class="video">
+  <iframe src="https://www.youtube.com/watch?v=gM7EPKun34Y" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video">
+  <iframe src="https://www.youtube.com/watch?v=cqXSkJNv7WM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Team
 In Ubisoft, most of the games are developed across different studio locations and different continents, where each one of them has different responsibilities and features to implement and maintain. In Watch Dogs: Legion, the lead developer was Ubisoft Toronto which was responsible for the core of the game. As I worked for Ubisoft Bucharest, permanent communication and connection to Ubisoft Toronto and all the other involved studios was important throughout the development and contributed to deliver memorable gaming experience to our players.
 
